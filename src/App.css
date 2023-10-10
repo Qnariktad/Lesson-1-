@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+ .parent {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 50px;
+ }
+.child {
+  padding: 50px;
+  border: black; 
+  text-align: center;
+}
